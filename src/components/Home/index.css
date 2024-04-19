@@ -1,0 +1,79 @@
+.swiggy_image{
+    height:50px;
+    width: 50px;
+}
+.footer{
+   
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-end; */
+    
+}
+.oneTwo{
+    display:flex;
+    flex-direction: column;
+    margin:20px;
+}
+.paneer{
+    height:200px;
+    width:200px;
+}
+.search{
+    height:50px;
+    padding:20px;
+}
+.home1{
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+    margin-left:100px;
+    margin-right:100px;
+    
+}
+/* .one{
+    display: flex;
+   
+    
+    
+} */
+.two{
+    background-color: #f2d9d8;
+    border-radius: 12px;
+    width:90vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    margin:20px;
+}
+.image2{
+    height:100px;
+    width:100px;
+    border-radius: 12px;
+}
+.food_delivery{
+    padding:20px;
+    min-width:50%;
+    min-height:200px;
+    border-radius: 12px;
+    background-color: #f5eeed;
+    margin:20px;
+}
+.food1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.span{
+    color:#d87bdb;
+}
+.three12{
+    display: flex;
+    flex-direction: row;
+   
+}

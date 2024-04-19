@@ -1,0 +1,16 @@
+.img3{
+    height:100px;
+    width:100px;
+}
+.shop1{
+    display: flex;
+}
+.item1{
+    margin:20px;
+}
+.instamart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+}
